@@ -49,7 +49,7 @@ _(Em breve novos projetos!)_
 
 ## 🌐 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- [LinkedIn](https://www.linkedin.com/in/erickvieiradt/)  
 - [Portfólio (em construção)](https://linkdoprotfolio.com)  
 
 Fique à vontade para me chamar — estou sempre aberto a boas conversas e colaborações!
