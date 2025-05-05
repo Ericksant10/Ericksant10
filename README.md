@@ -1,13 +1,60 @@
-<h1>Érick Vieira</h1>
+# 👋 Olá! Eu sou Erick
 
-<h2>Hello, everyone!</h2>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou em transição de carreira para a área de **Data Analytics**.
 
-Eu sou Érick Vieira, tenho 26 anos, moro na cidade do Rio de Janeiro e sou estudante de Engenharia de Software. Atualmente não trabalho na área então
-eu concilio trabalho, estudos da faculdade e estudos de ciência de dados.
+Tenho me dedicado a aplicar e aprofundar meus conhecimentos em projetos práticos que envolvem:
 
-Estou a procura de desenvolver alguns projetos usando a tecnologia java e projetos de ciência e análise de dados.
+📊 Análise de dados com Python, Pandas e SQL  
+📈 Visualização de dados com Tableau e Matplotlib  
+📂 Limpeza e transformação de dados em bases reais e complexas  
+🤝 Colaboração e compartilhamento de insights com a comunidade  
 
-Tecnologias:
+Estou focado em construir uma base sólida, **criar conexões internacionais**, **aprender continuamente** e **contribuir com projetos que fazem a diferença**.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='42'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width='42'/>
+---
 
+## 🎯 Objetivos
+
+- 📈 Trabalhar com dados de forma estratégica, entregando soluções baseadas em evidências  
+- 🤝 Colaborar com profissionais e empresas para gerar valor com dados  
+- 🌍 Fazer networking com pessoas de diferentes partes do mundo  
+- 🚀 Aprimorar minhas habilidades técnicas e analíticas constantemente  
+
+---
+
+## 🧠 Próximos Passos
+
+- Aprofundar conhecimentos em **machine learning**  
+- Estudar **modelos estatísticos** mais avançados  
+- Explorar aplicações de **ciência de dados** em contextos reais  
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+
+- Python (Pandas, NumPy, Seaborn, Matplotlib)  
+- SQL (BigQuery)  
+- Tableau & Looker Studio  
+- Git e GitHub  
+- Google Colab & Jupyter Notebook  
+- VS Code  
+- Estatística aplicada  
+- Fundamentos de Machine Learning (em progresso)  
+
+---
+
+## 💼 Projetos em Destaque
+
+🔹 [Cyclistic Bike-Share Analysis](https://github.com/Ericksant10/cyclistic-bike-share-project)  
+Projeto final do Google Data Analytics Professional Certificate. Análise exploratória com mais de 5 milhões de registros, visualizações e recomendações estratégicas para o negócio.
+
+_(Em breve novos projetos!)_
+
+---
+
+## 🌐 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- [Portfólio (em construção)](https://linkdoprotfolio.com)  
+
+Fique à vontade para me chamar — estou sempre aberto a boas conversas e colaborações!
