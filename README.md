@@ -32,13 +32,8 @@ Estou focado em construir uma base sólida, **criar conexões internacionais**, 
 
 ## 🛠️ Tecnologias em aprendizado
 
-- Python (Pandas, NumPy, Seaborn, Matplotlib)  
-- SQL (BigQuery)  
-- Tableau & Looker Studio  
-- Git e GitHub  
-- Google Colab & Jupyter Notebook  
-- VS Code  
-- Estatística aplicada  
+- Estatística aplicada
+- Programação em R (em progresso)
 - Fundamentos de Machine Learning (em progresso)  
 
 ---
